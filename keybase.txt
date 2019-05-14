@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/theredspy15
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://theredspy15.github.io
+  * I am theredspy15 (https://keybase.io/theredspy15) on keybase.
+  * I have a public key ASAghPq1Wdv3O3a9Ym117Sari0VtKk3wpRDnURyikt1wrwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202084fab559dbf73b76bd626d75ed26ab8b456d2a4df0a510e7511ca292dd70af0a",
+      "host": "keybase.io",
+      "kid": "01202084fab559dbf73b76bd626d75ed26ab8b456d2a4df0a510e7511ca292dd70af0a",
+      "uid": "982b3ae8ee04717131c79c0fe9fafb19",
+      "username": "theredspy15"
+    },
+    "merkle_root": {
+      "ctime": 1557800028,
+      "hash": "f6521e3eaf18c2adf673654d190e567457eb9b4a7deeb7ad941370cd231893d87345b4a306942c779af87e48a91d3d0a222eb351e70daac558d88368ec95a8aa",
+      "hash_meta": "1727927993ea5155aa04a81a7f9a0b512e7b1dd687305ac2a93f380a0944fa6d",
+      "seqno": 5364913
+    },
+    "service": {
+      "entropy": "Bdp7tQSBFrhwG+ZhmiJulM6s",
+      "hostname": "theredspy15.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1557800046,
+  "expire_in": 504576000,
+  "prev": "b1290393dc74561ebbef5747ac0751b1e3e55db727f81bd3878c4725200ed12b",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIIT6tVnb9zt2vWJtde0mq4tFbSpN8KUQ51EcopLdcK8Kp3BheWxvYWTESpcCD8QgsSkDk9x0Vh6771dHrAdRsePlXbcn+BvTh4xHJSAO0SvEINb55b9RNFfdpYPrpi9IkXy/yTS9L8pbJi/A9q6yeUV6AgHCo3NpZ8RAxfylQ+/nCqjQkA0xs7qQsVMMg1PPVm/x7oeE0JalHPygA3sxqaRxyHckUehRjFUfvvZJMJpjgBpOYTbFwYYYDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGeNC7/e7aQVv4EQSAnti2JG8E4dOPaoJ9DWmZVwp41+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/theredspy15
+
+==================================================================
